@@ -28,4 +28,4 @@ https://www.charlesproxy.com/download/
 
 把里面的那个Charles的证书设置为信任就可以了
 
-![搜索框页面](/attachments/搜索框页面.png)
+![搜索框页面](https://github.com/yukuai0117/Pisces/blob/master/attachments/%E6%90%9C%E7%B4%A2%E6%A1%86%E9%A1%B5%E9%9D%A2.png)
